@@ -1,4 +1,4 @@
-# transactionsApp
+# Kanban App
 ###Description
 Kanban App using React, Fluxx and Node, that allow the user to store todo task in MongoDB
 Drag n Drop practice
